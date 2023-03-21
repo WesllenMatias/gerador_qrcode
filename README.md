@@ -1,1 +1,1 @@
-### Gerador de QRCODE BET77
+### Gerador de QRCODE
